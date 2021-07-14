@@ -1,0 +1,64 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" 
+     content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link 
+      href="https://fonts.googleapis.com/css2?
+      family=Ubuntu+Mono&display=swap" 
+      rel="stylesheet">    
+</head>
+  
+<body>
+    <header>
+      <h1>Lorem</h1>
+      <h1>Ipsum</h1>
+     <center>      
+      <h1>What are you</h1>
+        <h1 id="top">Having for lunch?</h1>
+   <center>
+   </header>
+    <hr>
+    <nav id="navbar">
+        
+        <ul id="navcontent">
+            <li><a href="#">Services</a></li><button <button class="btn">Button</button>
+            <li><a href="#">Cuisine</a></li><button 
+                                                    <button class="btn">Button</button>
+      <li><a href="#">Gallery</a></li><button <button class="btn">Button</button>
+  <li><a href="#">Contact</a></li><button <button class="btn">Button</button>
+<li><a href="#">Book</a></li><button <button class="btn">Button</button>
+<li><a href="#">cart</a></li><button <button class="btn">Button</button>
+ 
+      
+  
+</ul>
+     </ul>
+    </nav>
+    <div id="container1">
+        <div id="row1">
+      <center>    
+          <div class="row">
+  <div class="column">
+    <img src="img_Mexican Taco.jpg" alt="Mexican Taco" style="width:100%">
+    <button class="btn">Button</button>
+  </div>
+  <div class="column">
+    <img src="img_Farmhouse Pizza.jpg" alt="Farmhouse Pizza" style="width:100%">
+    <button class="btn">Button</button>
+  </div>
+  <div class="column">
+    <img src="img_Chicken Burger.jpg" alt="Chicken Burger" style="width:100%">
+    <button class="btn">Button</button>
+  </div>
+</div> 
+        <div class="row">
+  <div class="column">
+    <img src="img_Loaded Nachos.jpg" alt="Loaded Nachos" style="width:100%">
+    <button class="btn">Button</button>
+  </div>
+  <div class="column">
+    <img src="img_Hakka Noodles.jpg" alt="Hakka Noodles" style="width:100%">
+    <button class="btn">Button</button>
+  </div>
+  </div>
